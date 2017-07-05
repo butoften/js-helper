@@ -6,7 +6,7 @@ some useful tool class for javascript
 ```var mArrayConvertion = new ArrayObjHelper();
 <script src="ArrayObjHelper.js"></script>
 <script>
-	var demo = [];
+    var demo = [];
     demo["key"] =1;
     console.log(demo);//you can see there is right associate array
     console.log(JSON.stringify(demo));//when you do this,you will find the wrong result
