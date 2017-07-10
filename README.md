@@ -2,7 +2,7 @@
 some useful tool class for javascript
 
 >##### @ArrayObjHelper：Usage
-——————
+————————————————————————
 ```
 <script src="ArrayObjHelper.js"></script>
 <script>
@@ -40,7 +40,7 @@ string(2) "[]"
 那么，这个锅谁来背呢？
 
 >##### @ValidateHelper：Usage
-——————
+————————————————————————
 ```
 <script src="ValidateHelper.js"></script>
 <script>
