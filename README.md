@@ -41,9 +41,9 @@ string(2) "[]"
 ---
 >##### @ValidateHelper：Usage
 常用的验证正则，如：
-*邮箱地址验证
-*手机号验证
-*是否为纯数字字符串验证
+* 邮箱地址验证
+* 手机号验证
+* 是否为纯数字字符串验证
 ```
 <script src="ValidateHelper.js"></script>
 <script>
