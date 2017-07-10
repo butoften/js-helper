@@ -2,8 +2,7 @@
 some useful tool class for javascript
 
 ##### @ArrayObjHelper：Usage
-
-```var mArrayConvertion = new ArrayObjHelper();
+```
 <script src="ArrayObjHelper.js"></script>
 <script>
     var demo = [];
@@ -39,6 +38,15 @@ string(2) "[]"
 而js的程序员又开始生气了，凭啥我给你的是空对象，你返回来的是空数组，
 那么，这个锅谁来背呢？
 
-
-
+##### @ValidateHelper：Usage
+```
+<script src="ValidateHelper.js"></script>
+<script>
+    var str = "";
+    var mValidateHelper = new ValidateHelper();//or use ValidateHelper.instance()
+    mValidateHelper.validateEmail(str);
+    mValidateHelper.validateMobile(str);
+    mValidateHelper.validateIntegerStr(str);
+</script>
+```
 
