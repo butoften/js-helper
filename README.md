@@ -2,7 +2,6 @@
 some useful tool class for javascript
 
 >##### @ArrayObjHelper：Usage
-***
 ```
 <script src="ArrayObjHelper.js"></script>
 <script>
@@ -39,8 +38,8 @@ string(2) "[]"
 而js的程序员又开始生气了，凭啥我给你的是空对象，你返回来的是空数组，
 那么，这个锅谁来背呢？
 
->##### @ValidateHelper：Usage
 ---
+>##### @ValidateHelper：Usage
 ```
 <script src="ValidateHelper.js"></script>
 <script>
